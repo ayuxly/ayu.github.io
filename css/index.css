@@ -3213,11 +3213,11 @@ h1.page-title + .tag-cloud-list {
 }
 #page-header.full_page {
   height: 400px;
-  background-attachment: fixed;
 }
+#page-header.full_page #background-attachment: fixed,
 #page-header.full_page #site-info {
   position: absolute;
-  top: 43%;
+  top: 200px;
   padding: 0 10px;
   width: 100%;
 }
